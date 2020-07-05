@@ -1,0 +1,25 @@
+body{
+    font-family: 'Noto Sans', sans-serif;
+
+}
+h1{
+    font-size: 45px;
+}
+h2{
+    font-size: 32px;
+}
+h3{
+    font-size: 19px;
+}
+.name-highlight{
+    color: rgb(249, 110, 88);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.half-width img{
+    width: 75%;
+}
